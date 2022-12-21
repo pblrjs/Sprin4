@@ -16,7 +16,7 @@ public class Catalogo extends AppCompatActivity {
     private ListView listViewProducts;
     private ArrayList<Producto> arrayProductos;
     private ProductoAdapter productoAdapter;
-
+    //
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
